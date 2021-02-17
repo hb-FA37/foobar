@@ -9,3 +9,6 @@ All txt files have been replaced by md files.
 
 # Level 1.
 i-love-lance-janice
+
+# Level 2.
+bunny-worker-locations
